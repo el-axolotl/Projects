@@ -1,0 +1,6 @@
+C:\Users\chris.munoz\Documents\C#\Uninstall Program\Uninstall Program\bin\Debug\Uninstall Program.exe.config
+C:\Users\chris.munoz\Documents\C#\Uninstall Program\Uninstall Program\bin\Debug\Uninstall Program.exe
+C:\Users\chris.munoz\Documents\C#\Uninstall Program\Uninstall Program\bin\Debug\Uninstall Program.pdb
+C:\Users\chris.munoz\Documents\C#\Uninstall Program\Uninstall Program\obj\Debug\Uninstall Program.csproj.CoreCompileInputs.cache
+C:\Users\chris.munoz\Documents\C#\Uninstall Program\Uninstall Program\obj\Debug\Uninstall Program.exe
+C:\Users\chris.munoz\Documents\C#\Uninstall Program\Uninstall Program\obj\Debug\Uninstall Program.pdb
