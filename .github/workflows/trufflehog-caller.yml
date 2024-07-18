@@ -8,5 +8,4 @@ on:
     pull_request:
 jobs:
     call-trufflehog-scan:
-        uses: el-axolotl/github-workflow-demos/.github/workflows/trufflehog.yml@master
-        
+        uses: el-axolotl/github-workflow-demos/.github/workflows/trufflehog.yml@main
